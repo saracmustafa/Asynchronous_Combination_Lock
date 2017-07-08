@@ -12,5 +12,5 @@ According to the project, my password is **00 | 01 | 10 | 11**
 
 If reset is **‘1’**, it return to the step one. If reset equals to **‘0’**, and clock is **‘1’** and inputs are true, it goes on step by step. When reset is **‘0’**, clock is **‘1’** , if I enter the values incorrectly for inputs, it return to the step one. If all steps are true, my decoded output turn up. 
 
-For more detailed questions, you can contact me at this email address: msarac13@ku.edu.tr   ✉️
+**For more detailed questions, you can contact me at this email address: msarac13@ku.edu.tr**&nbsp;&nbsp;   ✉️
 
