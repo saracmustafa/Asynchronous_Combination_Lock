@@ -6,7 +6,7 @@
 
 According to the project, my password is **00 | 01 | 10 | 11**
 
-**‘01’** is step one, **‘11’** is step two, **‘00’** is step three and **‘10’** is step four. 
+**‘00’** is step one, **‘01’** is step two, **‘10’** is step three and **‘11’** is step four. 
 
 If reset is **‘1’**, it return to the step one. If reset equals to **‘0’**, and clock is **‘1’** and inputs are true, it goes on step by step. When reset is **‘0’**, clock is **‘1’** , if I enter the values incorrectly for inputs, it return to the step one. If all steps are true, my decoded output turn up. 
 
