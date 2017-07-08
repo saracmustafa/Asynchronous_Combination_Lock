@@ -4,6 +4,8 @@
 
 **Description:** In this project, i had implemented an asynchronous combination lock which has four two-bit inputs. As an input is given at each step, it either cycles its step or goes to the new state by checking its value with defined password. In addition to these, i added a RESET property, which works for locking the system. Then, the combination lock starts from the beginning again.
 
+You can test this program on a programmable chip such as **FPGA board**.
+
 According to the project, my password is **00 | 01 | 10 | 11**
 
 **‘00’** is step one, **‘01’** is step two, **‘10’** is step three and **‘11’** is step four. 
